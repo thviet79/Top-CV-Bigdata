@@ -38,7 +38,8 @@ Dữ liệu được truyền qua Kafka sẽ được xử lý bằng Spark Stre
 Trong quá trình này, hệ thống sẽ tính toán các chỉ số như giá trung bình, giá mở cửa (open), giá đóng cửa (close), giá thấp nhất (low), và giá cao nhất (high) cho mỗi chu kỳ thời gian.
 ### Publish and display:
 
-Sau khi dữ liệu được xử lý, nó sẽ được đẩy vào Redis để phục vụ việc hiển thị trên user dashboard
+Sau khi dữ liệu được xử lý, nó sẽ được đẩy vào Redis để phục vụ việc hiển thị trên user dashboard.
+
 User dashboard sẽ được xây dựng bằng Node.js
 
 
