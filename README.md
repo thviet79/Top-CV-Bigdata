@@ -3,7 +3,7 @@ Bài tập lớn môn "Lưu trữ và xử lý dữ liệu lớn" - Nhóm 17 - 2
 
 Đại học Bách Khoa Hà Nội
 
-Môn học: Lưu trữ và xử lý dữ liệu lớn (IT4391)
+Môn học: Lưu trữ và xử lý dữ liệu lớn (IT4931)
 
 GVHD: TS. Trần Việt Trung
 
