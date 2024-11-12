@@ -17,3 +17,13 @@ Nhóm: 17
 | 4   | Lê Tấn Đạt           | 20215339     | dat.lt215339@sis.hust.edu.vn      |
 | 5   | Vũ Phương Thanh      | 20210790     | thanh.vp210790@sis.hust.edu.vn    |
 
+# Về Bài tập lớn: 
+## Mục tiêu của hệ thống
+Hệ thống này nhằm xây dựng một hệ thống thu thập dữ liệu từ một trang web tuyển dụng, sau đó vận dụng các kiến thức về lưu trữ và dữ liệu lớn để khai thác.
+
+## Kiến trúc:
+Các thành phần chính:
+![image](https://github.com/user-attachments/assets/15e59502-81c8-4634-8e93-951907bd2992)
+
+
+
