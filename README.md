@@ -28,8 +28,11 @@ Các thành phần chính:
 ## Quá trình thực hiện
 
 Bước 1: Thu thập dữ liệu trên website TopCV.
+
 Bước 2. Lưu dữ liệu vào Hadoop.
+
 Bước 3. Lọc, làm sạch dữ liệu trên Hadoop bằng Spark. Sau đó lưu thành 2 bản: 1 bản lưu trả về Hadoop, 1 bản gửi lưu vào Elasticsearch.
+
 Bước 4. Biểu diễn dữ liệu trên Elasticsearch dưới dạng biểu đồ, đồ thị, danh sách bảng sử dụng Kibana.
 
 
