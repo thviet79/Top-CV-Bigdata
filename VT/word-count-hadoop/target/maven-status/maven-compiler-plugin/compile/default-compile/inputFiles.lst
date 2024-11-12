@@ -1,0 +1,3 @@
+/home/shared/word-count-hadoop/src/com/hadoop/mapreduce/WordCount.java
+/home/shared/word-count-hadoop/src/com/hadoop/mapreduce/WCReducer.java
+/home/shared/word-count-hadoop/src/com/hadoop/mapreduce/WCMapper.java
