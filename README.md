@@ -1,4 +1,4 @@
-# Về Bài tập lớn: 
+
 ## Mục tiêu của hệ thống
 Hệ thống này nhằm xây dựng một hệ thống thu thập dữ liệu từ một trang web tuyển dụng, sau đó vận dụng các kiến thức về lưu trữ và dữ liệu lớn để khai thác.
 
